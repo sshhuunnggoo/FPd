@@ -33,7 +33,7 @@ h2 {
 
 /*ボタンホバー時*/
 .hidden_box label:hover {
-    background: rgba(230, 230, 250, 1);
+    background: rgba(219, 237, 255, 1);
 }
 
 /*チェックは見えなくする*/
